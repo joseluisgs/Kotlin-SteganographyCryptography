@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kotlin-SteganographyCryptography.iml" filepath="$PROJECT_DIR$/.idea/modules/Kotlin-SteganographyCryptography.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Steganography and Cryptography/task/Kotlin-SteganographyCryptography.Steganography_and_Cryptography-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Steganography and Cryptography/task/Kotlin-SteganographyCryptography.Steganography_and_Cryptography-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Steganography and Cryptography/task/Kotlin-SteganographyCryptography.Steganography_and_Cryptography-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Steganography and Cryptography/task/Kotlin-SteganographyCryptography.Steganography_and_Cryptography-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Steganography and Cryptography/task/Kotlin-SteganographyCryptography.Steganography_and_Cryptography-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Steganography and Cryptography/task/Kotlin-SteganographyCryptography.Steganography_and_Cryptography-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Kotlin-SteganographyCryptography.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Kotlin-SteganographyCryptography.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Kotlin-SteganographyCryptography.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Kotlin-SteganographyCryptography.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Kotlin-SteganographyCryptography.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Kotlin-SteganographyCryptography.util.test.iml" />
+    </modules>
+  </component>
+</project>

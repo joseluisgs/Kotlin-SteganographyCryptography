@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Steganography_and_Cryptography-task" external.linked.project.path="$MODULE_DIR$/../../../../Steganography and Cryptography/task" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Kotlin-SteganographyCryptography" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Steganography and Cryptography/task">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Steganography and Cryptography/task/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Steganography and Cryptography/task/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Steganography and Cryptography/task/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
